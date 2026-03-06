@@ -1,0 +1,10 @@
+{
+  "name": "Weekly Number Bingo Club",
+  "short_name": "Bingo Club",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "Weekly bingo app where players choose 6 numbers from 1 to 49.",
+  "icons": []
+}
